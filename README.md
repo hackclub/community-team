@@ -22,7 +22,14 @@ The Community Team is made up of:
 
 - The @commieteam. This is a HCer-lead group. See below for our roles and responsibilities.
 
-- Our current members are: [@toby](https://hackclub.slack.com/team/U02C9DQ7ZL2), [@arav](https://hackclub.slack.com/team/U01MPHKFZ7S), [@gaurav](https://hackclub.slack.com/team/U043Q05KFAA), [@arpan](https://hackclub.slack.com/team/U0409FSKU82), [@fayd](https://hackclub.slack.com/team/U014ND5P1N2), [@zoya](https://hackclub.slack.com/team/U016S3C7JS2), [@sahiti](https://hackclub.slack.com/team/U03RU99SGKA).
+- Our current members are:
+    - [@arpan](https://hackclub.slack.com/team/U0409FSKU82)
+    - [@arv](https://hackclub.slack.com/team/U01MPHKFZ7S)
+    - [@fayd](https://hackclub.slack.com/team/U014ND5P1N2)
+    - [@gaurav](https://hackclub.slack.com/team/U043Q05KFAA)
+    - [@sahiti](https://hackclub.slack.com/team/U03RU99SGKA)
+    - [@toby](https://hackclub.slack.com/team/U02C9DQ7ZL2)
+    - [@zsh](https://hackclub.slack.com/team/U016S3C7JS2)
 
 - We’ve recently added [@cwalker](https://hackclub.slack.com/team/UDK5M9Y13) and [@jc](https://hackclub.slack.com/team/U03MNFDRSGJ) to the Community Team as FT staff, to help make the online space the most buzzy, fun, technical and magical realm there is.
 
