@@ -1,7 +1,7 @@
 # Hack Club's Community Team 
 
 Hello there! 👋    
-First of all, know that being a member of the online community means you can craft and change and form it how you like, and doesn’t require membership in the @commieteam. We believe the HC Slack to be hackable. Do you see something that could be improved? Something that’s broken? We’re open source! (I'd link to the repo but you're already here lol)
+First of all, know that being a member of the online community means you can craft and change and form it how you like, and doesn’t require membership in the **@commieteam**. We believe the HC Slack to be hackable. Do you see something that could be improved? Something that’s broken? We’re open source! (I'd link to the repo but you're already here lol)
 
 #### If you have ideas or feedback for us, you can do so:
 ##### Publicly
