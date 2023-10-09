@@ -17,12 +17,13 @@ The Community Team is a group that is committed to help make the HC Slack the be
 The Community Team is made up of:
 - **@commieteam** (duh) The HCer led group that you are most familiar with. See below for more info on our roles and responsibilities. Our current members are 
     - [@Arpan](https://hackclub.slack.com/team/U0409FSKU82)
-    - [@Sahiti](https://hackclub.slack.com/team/U03RU99SGKA)
     - [@arv](https://hackclub.slack.com/team/U01MPHKFZ7S)
-    - [@zsh](https://hackclub.slack.com/team/U016S3C7JS2)
-    - [@toby](https://hackclub.slack.com/team/U02C9DQ7ZL2)
-    - [@gaurav](https://hackclub.slack.com/team/U043Q05KFAA)
     - [@fayd](https://hackclub.slack.com/team/U014ND5P1N2)
+    - [@gaurav](https://hackclub.slack.com/team/U043Q05KFAA)
+    - [@Sahiti](https://hackclub.slack.com/team/U03RU99SGKA)
+    - [@toby](https://hackclub.slack.com/team/U02C9DQ7ZL2)
+    - [@zsh](https://hackclub.slack.com/team/U016S3C7JS2)
+    
 
 - We’ve recently added [@cwalker](https://hackclub.slack.com/team/UDK5M9Y13) and [@jc](https://hackclub.slack.com/team/U03MNFDRSGJ) to the Community Team as FT staff, to help make the online space the most buzzy, fun, technical and magical realm there is. 
 - Hack Club’s founder, [@zrl](https://hackclub.slack.com/team/U0266FRGP) provides the longer term organization-level vision for its online community. [@kara](https://hackclub.slack.com/team/U032A2PMSE9) is accountable to this vision by supporting and managing the **@commieteam** and staff members.
